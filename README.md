@@ -1,5 +1,4 @@
 ## Anderson Rocha
-
 🏠 Rio de Janeiro/RJ
 📱 (21) 991576928
 ✉️ arocha.dev@outlook.com.br
@@ -7,7 +6,9 @@
 👋 Meu nome é Anderson, muito prazer! Sou desenvolvedor Backend, me especializando em front-end React para virar um full stack
 
 ## Formação
-
+* Bacharelado em Ciência da Computação
+* Pós Administração de Banco de Dados
+* Pós Full Stack Javascript
 
 <!--
 **arochaa/arochaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
