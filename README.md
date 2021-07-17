@@ -1,4 +1,4 @@
-## Anderson Rocha
+## ✨ Anderson Rocha ✨
 🏠 Rio de Janeiro/RJ
 📱 (21) 991576928
 ✉️ arocha.dev@outlook.com.br
@@ -8,7 +8,6 @@
 ## Formação
 * Bacharelado em Ciência da Computação
 * Pós Administração de Banco de Dados
-* Pós Full Stack Javascript
 
 <!--
 **arochaa/arochaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
