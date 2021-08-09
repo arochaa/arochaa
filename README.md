@@ -24,6 +24,12 @@ Atualmente
   * Desenvolvimento de APIs em NodeJS
   * Desenvolvimento de Microserviços em NodeJS
   * Virtualização de ambiente utilizando Docker
+  * Desenvolvimento de Dashboard com Kibana
+  * Integração com Elast utilizando filebeat
+  * Integração com Elast via API
+  * Suporte a producão
+  * Correção de Bug
+  * Suporte para o Nivel 2
 
 * **It Specialist**<br>
 *Grifols LTDA*
