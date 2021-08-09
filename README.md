@@ -20,29 +20,29 @@ Desenvolvedor Backend NodeJS
 * **Especialista em Desenvolvimento de Software**<br>
 *Rede Dor São Luiz*
 Atualmente
-  * Desenvolvimento de integrações utilizando Mirth Connect
-  * Desenvolvimento de APIs em NodeJS
-  * Desenvolvimento de Microserviços em NodeJS
-  * Virtualização de ambiente utilizando Docker
+ * Desenvolvimento de integrações utilizando Mirth Connect
+ * Desenvolvimento de APIs em NodeJS
+ * Desenvolvimento de Microserviços em NodeJS
+ * Virtualização de ambiente utilizando Docker
 
 * **It Specialist**<br>
 *Grifols LTDA*
 2015 - 2017
-  * Responsável no desenvolvimentos de integrações entre as automações forneceda pela Grifols com os principais HIS do marcado hospitalar, Tasy, Mv2000, MvSoul, e Wpd. Utilizando o barramento Mirth Connect nas interfaces de comunicação HL7, JSON, XML, utilizando os conectores Database Reader, HTTP, TCP, JavaScript, AWS(S3 e SQS), outros.
-  * Desenvolvimento de APIs em NodeJS
-  * Virtualização de ambiente utilizando Docker
-  * Liderando os projetos dentro do escopo de desenvolvimento
-  * Levantamento de Requisitos
-  * Report para gerência sobre os projetos
-  * Suporte para os desenvolvedores de outras cidades
+ * Responsável no desenvolvimentos de integrações entre as automações forneceda pela Grifols com os principais HIS do marcado hospitalar, Tasy, Mv2000, MvSoul, e Wpd. Utilizando o barramento Mirth Connect nas interfaces de comunicação HL7, JSON, XML, utilizando os conectores Database Reader, HTTP, TCP, JavaScript, AWS(S3 e SQS), outros.
+ * Desenvolvimento de APIs em NodeJS
+ * Virtualização de ambiente utilizando Docker
+ * Liderando os projetos dentro do escopo de desenvolvimento
+ * Levantamento de Requisitos
+ * Report para gerência sobre os projetos
+ * Suporte para os desenvolvedores de outras cidades
 
 * **Analista de Sistemas**<br>
 *B2W*
 2013 - 2015
-  * Desenvolvimento de Scripts SQL
-  * Desenvolvimento de APIs com Java
-  * Suporte a produção
-  * Correção de Bugs
+ * Desenvolvimento de Scripts SQL
+ * Desenvolvimento de APIs com Java
+ * Suporte a produção
+ * Correção de Bugs
 
 ## Conhecimentos
 
