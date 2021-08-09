@@ -19,11 +19,27 @@ Desenvolvedor Backend NodeJS
 
 * **Especialista em Desenvolvimento de Software**<br>
 *Rede Dor São Luiz*
-2017 - 2019
+Atualmente
   * Desenvolvimento de integrações utilizando Mirth Connect
   * Desenvolvimento de APIs em NodeJS
   * Desenvolvimento de Microserviços em NodeJS
   * Virtualização de ambiente utilizando Docker
+
+* **It Specialist**<br>
+*Grifols LTDA*
+2015 - 2017
+  * Desenvolvimento de integrações utilizando o barramento Mirth Connect
+  * Desenvolvimento de APIs em NodeJS
+  * Virtualização de ambiente utilizando Docker
+  * Liderando os projetos dentro do escopo de desenvolvimento
+  * Levantamento de Requisitos
+  * Report para gerência sobre os projetos
+  * Suporte para os desenvolvedores de outras cidades
+
+* **Analista de Sistemas**<br>
+*B2W*
+2013 - 2015
+  * Desenvolvimento de integrações utilizando o barramento Mirth Connect
 
 ## Conhecimentos
 
