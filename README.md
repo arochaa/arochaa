@@ -5,6 +5,9 @@ Desenvolvedor Backend NodeJS
 :iphone:    (21) 991576928<br>
 :envelope:  arocha.dev@outlook.com
 
+## Sobre Mim
+Ama o que faz, está em constante aprendizado, se cobra bastante, cabeça aberta para novas tecnologias, não se encomoda em dá dois passos para trás para dá três lá na frente, gosta de desafios, bem humorado, tem como hobby desenvolver e estudar novas tecnologias, de confiança, de compromisso, de prencípios, motivado, sempre grato a tudo!
+
 ## Formação
 
 * **Pós Graduação em Administração de Banco de Dados** <br>
@@ -59,6 +62,7 @@ Atualmente
 ### Linguagens de Programação
 * JavaScript
 * NodeJS
+* Reactjs (ESTUDANDO)
 * TSQL
 * PLSQL
 
