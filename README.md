@@ -53,7 +53,6 @@ Atualmente
 ### Linguagens de Programação
 * JavaScript
 * NodeJS
-* GoLang
 * TSQL
 * PLSQL
 
@@ -65,8 +64,12 @@ Atualmente
 ### Sistemas de controle de versão
 * Git
 
-## Projetos
-## Cursos
+### Infraestrutura e Apps
+* Docker
+* Docker Compose
+* Kibana
+* Elasticsearch
+* Mirth Connect
 
 ## Redes Sociais
 *  [Linkedin](https://www.linkedin.com/arocha-)
