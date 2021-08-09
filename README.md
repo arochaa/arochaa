@@ -28,7 +28,7 @@ Atualmente
 * **It Specialist**<br>
 *Grifols LTDA*
 2015 - 2017
-  * Desenvolvimento de integrações utilizando o barramento Mirth Connect
+  * Responsável no desenvolvimentos de integrações entre as automações forneceda pela Grifols com os principais HIS do marcado hospitalar, Tasy, Mv2000, MvSoul, e Wpd. Utilizando o barramento Mirth Connect nas interfaces de comunicação HL7, JSON, XML, utilizando os conectores Database Reader, HTTP, TCP, JavaScript, AWS(S3 e SQS), outros.
   * Desenvolvimento de APIs em NodeJS
   * Virtualização de ambiente utilizando Docker
   * Liderando os projetos dentro do escopo de desenvolvimento
@@ -39,7 +39,10 @@ Atualmente
 * **Analista de Sistemas**<br>
 *B2W*
 2013 - 2015
-  * Desenvolvimento de integrações utilizando o barramento Mirth Connect
+  * Desenvolvimento de Scripts SQL
+  * Desenvolvimento de APIs com Java
+  * Suporte a produção
+  * Correção de Bugs
 
 ## Conhecimentos
 
