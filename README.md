@@ -23,28 +23,22 @@
 </div>
 <br/>
 
-**LEARNING**
-
-![react](https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REACTSTRAP](https://img.shields.io/badge/Reactstrap-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 **FRONTEND**
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![reactstrap](https://img.shields.io/badge/REACTSTRAP-REACTSTRAP-green)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![react](https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB)
+![reactstrap](https://img.shields.io/badge/Reactstrap-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB)
+![bootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 
 **BACKEND**
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-%23404d59.svg?style=for-the-badge&logo=node.js&logoColor=61DAFB)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23404d59.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=61DAFB)
+![Oracle](https://img.shields.io/badge/Oracle-%23404d59.svg?style=for-the-badge&logo=oracle&logoColor=61DAFB)
+![Postgre](https://img.shields.io/badge/Postgresql-%23404d59.svg?style=for-the-badge&logo=postgresql&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/Mongodb-%23404d59.svg?style=for-the-badge&logo=mongodb&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/Typescript-%23404d59.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Fastify](https://img.shields.io/badge/Fastify-%23404d59.svg?style=for-the-badge&logo=fastify&logoColor=61DAFB)
 
 **INFRASTRUCTURE e APPS**
 
