@@ -7,18 +7,18 @@
 <!-- Contatos -->
 <div align="center">    
   <a href="https://github.com/arochaa" alt="github" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-540a00?&style=flat-square&logo=GitHub&logoColor=white">
   </a>
   
   <a href="https://www.linkedin.com/in/arochaa/" alt="linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-540a00?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://wa.me/5521991576928" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-540a00?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/></a>
   
   <a href="mailto:arocha.dev@outlook.com" alt="gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com"/>
+    <img src="https://img.shields.io/badge/-Gmail-540a00?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com"/>
   </a>
 </div>
 <br/>
@@ -42,14 +42,14 @@
 
 **INFRASTRUCTURE e APPS**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Docker](https://img.shields.io/badge/Docker-005571.svg?style=for-the-badge&logo=docker&logoColor=61DAFB)
+![Ansible](https://img.shields.io/badge/Ansible-005571.svg?style=for-the-badge&logo=ansible&logoColor=61DAFB)
+![GitLab](https://img.shields.io/badge/Gitlab-005571.svg?style=for-the-badge&logo=gitlab&logoColor=61DAFB)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=61DAFB)
 
 **CLOUND**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-007054?style=for-the-badge&logo=amazon-aws&logoColor=61DAFB)
 
 <div align="center">
   <a href="https://github.com/arochaa/">
