@@ -25,8 +25,8 @@
 
 **LEARNING**
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REACTSTRAP](https://img.shields.io/badge/Reactstrap--%130977B1?&style=flat-square&logo=React&logoColor=blue)
+![react](https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REACTSTRAP](https://img.shields.io/badge/Reactstrap-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **FRONTEND**
 
