@@ -2,7 +2,7 @@
 <img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> JavaScript Developer, Graduated in Computer Science and Post Graduated in Database Management. </h3>
+<h3 align="center"> JavaScript Developer, Graduated in Computer Science and Post Graduated in Database Management. Specialist in Mirth Connect with a lot of knowledge in Fhir and HL7. </h3>
 
 <!-- Contatos -->
 <div align="center">    
